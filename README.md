@@ -4,7 +4,7 @@
 
 - <b>Revenue and Cash Insights Dashboards</b>
   - [SQL-Driven Dashboards: Cash Activity and Performance Insights](https://github.com/BrianA-BABA/sql-and-visualization-projects)
-  - Built using SQL, Tableau, and Excel to highlight financial trends and operational metrics.
+  - Built using SQL, and Tableau to highlight financial trends and operational metrics.
   
 - <b>Operational and Demographic Analysis</b>
   - Conducted detailed analysis of demographic trends and operational efficiency using large datasets.
