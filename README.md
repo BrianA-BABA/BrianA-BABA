@@ -7,7 +7,8 @@
   - Built using SQL, and Tableau to highlight financial trends and operational metrics.
   
 - <b>Operational and Demographic Analysis</b>
-  - Conducted detailed analysis of demographic trends and operational efficiency using large datasets.
+  - [SQL-Driven Dashboards: Patient Access Operations Dashboard](https://github.com/BrianA-BABA/KPI-ComplianceView)
+  - Tracked the percentage of scanned documents to provide an overview of compliance and establish key performance metrics for patient access operations.
 
 - <b>Custom Python Data Automation</b>
   - Developed scripts to scrub data, merge reports, and automate workflows for seamless analysis.
