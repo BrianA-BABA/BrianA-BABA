@@ -5,13 +5,22 @@
 - <b>Revenue and Cash Insights Dashboards</b>
   - [SQL-Driven Dashboards: Cash Activity and Performance Insights](https://github.com/BrianA-BABA/sql-and-visualization-projects)
   - Built using SQL, and Tableau to highlight financial trends and operational metrics.
-  
+
 - <b>Operational and Demographic Analysis</b>
   - [SQL-Driven Dashboards: Patient Access Operations Dashboard](https://github.com/BrianA-BABA/KPI-ComplianceView)
   - Tracked the percentage of scanned documents to provide an overview of compliance and establish key performance metrics for patient access operations.
 
 - <b>Custom Python Data Automation</b>
-  - Developed scripts to scrub data, merge reports, and automate workflows for seamless analysis.
+  - [Python-Driven Claim Accrual Processing](https://github.com/BrianA-BABA/Python-Processing-Claim-Accrual)
+  - Developed scripts to scrub data, merge reports, and automate workflows for seamless analysis, including claim accrual processing.
+
+<h2>📊 Financial Analytics Projects:</h2>
+
+- <b>Billed vs. Unbilled Hours Breakdown</b>
+  - Displays a detailed breakdown of billed vs. unbilled hours per patient coordinator, helping track efficiency and revenue flow.
+
+- <b>Forecasting Model</b> (Coming Soon)
+  - Predictive analytics to forecast financial trends and operational planning.
 
 <h2>🔧 Tools and Technologies:</h2>
 
