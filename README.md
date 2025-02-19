@@ -17,6 +17,7 @@
 <h2>📊 Financial Analytics Projects:</h2>
 
 - <b>Billed vs. Unbilled Hours Breakdown</b> (Coming Soon)
+  - [Billing Data Visualization](https://github.com/BrianA-BABA/billing-data-visualization)
   - Displays a detailed breakdown of billed vs. unbilled hours per patient coordinator, helping track efficiency and revenue flow.
 
 - <b>Forecasting Model</b> (Coming Soon)
