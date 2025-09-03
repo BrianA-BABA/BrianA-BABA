@@ -20,8 +20,6 @@
   - [Billing Data Visualization](https://github.com/BrianA-BABA/billing-data-visualization)
   - Displays a detailed breakdown of billed vs. unbilled hours per patient coordinator, helping track efficiency and revenue flow.
 
-- <b>Forecasting Model</b> (Coming Soon)
-  - Predictive analytics to forecast financial trends and operational planning.
 
 <h2>🔧 Tools and Technologies:</h2>
 
