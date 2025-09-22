@@ -6,10 +6,6 @@
   - [SQL-Driven Dashboards: Cash Activity and Performance Insights](https://github.com/BrianA-BABA/sql-and-visualization-projects)
   - Built using SQL, and Tableau to highlight financial trends and operational metrics.
 
-- <b>Operational and Demographic Analysis</b>
-  - [SQL-Driven Dashboards: Patient Access Operations Dashboard](https://github.com/BrianA-BABA/KPI-ComplianceView)
-  - Tracked the percentage of scanned documents to provide an overview of compliance and establish key performance metrics for patient access operations.
-
 - <b>Custom Python Data Automation</b>
   - [Python-Driven Claim Accrual Processing](https://github.com/BrianA-BABA/Python-Processing-Claim-Accrual)
   - Developed scripts to scrub data, merge reports, and automate workflows for seamless analysis, including claim accrual processing.
